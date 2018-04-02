@@ -1,3 +1,5 @@
 这个文件夹相当一个Android工程的跟目录。
 what's wrong with my file ?
 why all words has been messy code ?
+Is it has been commit ?
+
