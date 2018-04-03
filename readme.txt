@@ -1,2 +1,6 @@
 Hah,I has been created again !
-fuck ,what's up ??
+what's up ??
+I has been add to the cache !
+I was changed again !!!
+why don't you change??
+i don't know the meaning of "diff" >_<
