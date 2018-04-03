@@ -9,8 +9,7 @@ class SimpleGit
     command("git show #{treeish}")
   end
 
-  public
- 
+  private
   
     def command(git_cmd)
       Dir.chdir(@git_dir) do
